@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Store",
+  "name": "GIAHIEUSTORE",
+  "image": "https://yourdomain.example/assets/images/bg.svg",
+  "description": "GIAHIEUSTORE - Cửa hàng bán áo thể thao các CLB nổi tiếng. Giao hàng toàn quốc.",
+  "url": "https://yourdomain.example/",
+  "sameAs": [
+    "https://facebook.com/giahieustore",
+    "https://instagram.com/giahieustore"
+  ]
+}
